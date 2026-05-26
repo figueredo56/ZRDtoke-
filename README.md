@@ -88,7 +88,7 @@ El Momento es Ahora: Mientras otros dudan, nosotros construimos. Mientras otros 
 ZRD no es una prueba; es el estándar. Hemos creado el activo definitivo para quienes tienen el valor de apostar por el mañana hoy mismo.
 1. **Blindaje**: Mantienes tu 20% en **ZRD**. Eres intocable.
 2. **Incursión**: Con el 80%, entras en **PANGA** cuando el radar detecta precios bajos.
-3. **Extracción**: Al subir el precio de PANGA, conviertes la plusvalía de vuelta a **ZAARD**.
+3. **Extracción**: Al subir el precio de PANGA, conviertes la plusvalía de vuelta a **ZRD**.
 
 **¿El resultado final?** Tu "Caja Fuerte" de ZAARD crece exponencialmente sin inyectar capital nuevo, solo aprovechando la fuerza de trade de PANGA.
 
