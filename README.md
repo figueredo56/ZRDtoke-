@@ -63,7 +63,7 @@ ZRD: Evolución constante. Elevamos los estándares del ecosistema blockchain co
 | **Decimales** | 18 |
 | **Suministro Total** | 100.00 $ZRD (Escasez Asegurada) |
 | **Red de Operación** | Binance Smart Chain (BEP20) |
-| **Contrato Inteligente** | `0x86e11495c3150e8a5f6e6c6e7d9900567726ea14` |
+| **Contrato Inteligente** | `0xff0d970a076c5eb3e052f88b4dc90aa822ac9187` |
 
 
 ---
